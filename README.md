@@ -1,5 +1,5 @@
 
-![LeedGrad](https://user-images.githubusercontent.com/71854729/213318507-b8a2e7d8-20ce-40e3-a0af-fd3a9268e326.png)(leedmol.com)
+![LeedGrad](https://user-images.githubusercontent.com/71854729/213318507-b8a2e7d8-20ce-40e3-a0af-fd3a9268e326.png)(https:www.leedmol.com)
 
 <h1 align="center">Hi 👋, I'm Pedro =]</h1>
 <h3 align="center">I'm a theoretical chemist from brazil!</h3>
