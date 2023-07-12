@@ -27,6 +27,9 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email of phfmatias" height="30" width="40" />
 </a>
 
+[![email of phfmatias](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg)](mailto:pedrohfmatias@gmail.com)
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
