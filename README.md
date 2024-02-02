@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phfmatias&label=Profile%20views&color=0e75b6&style=flat" alt="phfmatias" /> </p>
 
-- 🔭 I’m currently working on [ConvergKing](https://github.com/phfmatias/ConvergKing)
+- 🔭 I’m currently working on [MoleKing](https://github.com/Mateus-RB/MoleKing)
 
 - 👯 I’m collaborating on [MoleKing](https://github.com/Mateus-RB/MoleKing)
 
 - 🌱 I’m currently learning **Artificial Intelligence/Machine Learning applied to chemistry problems;**
 
-- ⚡ Fun fact **I commonly fight and yell at my computer;**
+- ⚡ Fact **I love JRPG**
 
 - 💬 Ask me about **Theoretical Chemistry and Scientific Programming;**
 
