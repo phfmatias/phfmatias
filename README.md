@@ -1,9 +1,10 @@
 
-![LeedGrad](https://user-images.githubusercontent.com/71854729/213318507-b8a2e7d8-20ce-40e3-a0af-fd3a9268e326.png)
+![Untitled design](https://github.com/user-attachments/assets/4217d5a2-6b35-4a7e-aa98-6e0cb4354ba8)
+
 
 <h1 align="center">Hi 👋, I'm Pedro =]</h1>
 <h3 align="center">I'm a theoretical chemist from brazil! </h3>
-<img align="right" alt="nightCoding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv"
+<img align="right" alt="chocobo" width="400" src="https://64.media.tumblr.com/fb3c7faa223e184a61a4cd19c2169d01/tumblr_ooivos9WhF1sfkmp1o1_540.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phfmatias&label=Profile%20views&color=0e75b6&style=flat" alt="phfmatias" /> </p>
 
@@ -29,7 +30,12 @@
 
 </p>
 
+<img align="right" alt="cloud-strife" width="300" src="https://media.tenor.com/TlyRveJkgo4AAAAj/cloud-cloud-strife.gif"/>
+
+
+
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
  <h4 align="left"> Scientific Programming and AI/ML:</h4>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
@@ -39,6 +45,8 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phfmatias&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="phfmatias" /></p>
+
+<img align="right" alt="kofuku" width="300" src="https://giffiles.alphacoders.com/178/178540.gif"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phfmatias&show_icons=true&locale=en&theme=tokyonight" alt="phfmatias" /></p>
 
